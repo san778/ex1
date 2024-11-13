@@ -1,4 +1,6 @@
-﻿
+﻿#include <iostream>
+using namespace std;
+
 int main()
 {
     int month = 1; string result = "";
